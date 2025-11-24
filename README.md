@@ -11,5 +11,5 @@ Proyecto de ejemplo: frontend (Vite + React) y backend (Node + Express) con pers
 
 ### 1. Clonar repo
 ```bash
-git clone https://github.com/tuusuario/nombre-repo.git
-cd nombre-repo
+git git@github.com:ANGELO-MENDOZA-GARCIA/fullstack-todo-frontend-backend-.git
+cd fullstack-todo-frontend-backend-
