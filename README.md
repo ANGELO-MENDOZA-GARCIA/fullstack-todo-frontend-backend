@@ -40,7 +40,8 @@ Terminal 1: Backend
 cd backend
 npm run dev
 ```
-El servidor correrá usualmente en http://localhost:? (puerto definido en server.js)
+El servidor correrá usualmente en http://localhost:4000/api/todos (puerto definido en server.js)
+
 Terminal 2: Frontend
 ```bash
 cd frontend
